@@ -1,3 +1,18 @@
+/*
+Parameterized script for A-shaped art stand.
+
+By Tyler Tork
+Instagram: @tylertorkfictioneer
+Email: tyler@tylertork.com
+Website: tylertork.com
+
+Copyright 2024 Tyler Tork
+
+Creative Commons - Attribution - Non-Commercial 4.0
+ International License
+ https://creativecommons.org/licenses/by-nc/4.0/
+*/
+
 display = "a"; // [a: assembled, s: for printing]
 depth = 3; // [2:.2:4.4]
 width_at_base = 70;
